@@ -25,7 +25,7 @@ export default {
     deleteTodo(id) {
       // delete request to remove a todoitem
       axios
-        .delete(`https://jsonplaceholder.typicode.com/todos/${id}`)
+        .delete("https://jsonplaceholder.typicode.com/todos/" + id)
         .then((this.todos = this.todos.filter(todo => todo.id !== id)))
         .catch(err => console.log(err));
     },
