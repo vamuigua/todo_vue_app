@@ -1,5 +1,8 @@
 # todo_vue_app 📓
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2463e74a-ba76-4cb6-b562-b25222ec39f7/deploy-status)](https://app.netlify.com/sites/vuetodo-app/deploys)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vamuigua/todo_vue_app/Build and Deploy to Netlify)
+
 A single page TodoList App made in Vue.js.
 
 ![alt text](screenshot.png)
