@@ -8,7 +8,7 @@
 </template>
 
 <script>
-// import { v4 as uuidv4 } from "uuid";
+// import { v4 as uuidv4 } from "uuid"; // uuid was used as a temporary generator for todo ids
 export default {
   name: "AddTodo",
   data() {
